@@ -6,8 +6,8 @@
 
 This project is a **Job Recommendation System** designed to bridge the gap between job seekers and recruiters using data-driven machine learning models. It tackles key challenges like automatic job domain tagging, salary prediction, and ultimately matches resumes-to-jobs and jobs-to-resumes, providing intelligent recommendations to improve the job application process.
 
-Developed by **Group 3**:
-Akanksha Mathpati, Chris Tomaszkiewicz, Deepali Dagar, Sakshi Bokil for the Machine Learning II course.
+Developed by **Group 5**:
+Gourang Chauhan, Anika Rai, Sneha Chaudhary, Surya Shetty for the Machine Learning II course.
 
 ---
 
